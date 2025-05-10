@@ -75,13 +75,13 @@ Demo Video:
 
 🚀 How to Run
 
-$ git clone https://github.com/askarthikey/Multithreaded-Proxy-WebServer
-$ cd MultiThreadedProxyServerClient
-$ make all
-$ ./proxy <port number>
+    $ git clone https://github.com/askarthikey/Multithreaded-Proxy-WebServer
+    $ cd MultiThreadedProxyServerClient
+    $ make all
+    $ ./proxy <port number>
 
 Then, open your browser and visit:
-👉 http://localhost:<port>/https://www.cs.princeton.edu/
+    👉 http://localhost:<port>/https://www.cs.princeton.edu/
 📝 Notes:
 
     Run only on Linux machines.
